@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m studying to become a Front End Developer 
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and ReactJS
+- 📫 Reach me: twitter.com/alexcod3s
+
 <!--
 **alextrieu/alextrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
