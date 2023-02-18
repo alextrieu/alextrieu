@@ -1,21 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-I’m studying to become a Front End Developer 
+My name is Alex, and I'm a budding software developer based in Vancouver, Canada 🇨🇦
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and ReactJS
-- 📫 Reach me: twitter.com/alexcod3s
+## What I'm Working On 👨‍💻
+Currently, I am focusing on creating portfolio projects to showcase my skills and experience as a software developer. I believe that building real-world projects is one of the best ways to hone my coding skills and gain practical experience.
 
-<!--
-**alextrieu/alextrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Learning 📖
+I am always looking to improve my skills and stay up-to-date with the latest technologies in the industry. Right now, I am particularly interested in improving my ReactJS skills.
 
-Here are some ideas to get you started:
+## Technologies and Tools 🛠
+* Programming Languages: ![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-9cf)
+- Front-end Technologies: ![HTML Badge](https://img.shields.io/badge/Code-HTML-9cf), ![Css Badge](https://img.shields.io/badge/Code-CSS-9cf), ![React badge](https://img.shields.io/badge/Code-React-9cf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tools: ![Git Badge](https://img.shields.io/badge/Tools-Git-9cf), ![Visual Studio Badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-9cf)
+
+## Get in Touch 📫 
+If you're interested in collaborating on a project or just want to say hello, feel free to send me a message or connect with me on Twitter. 
+Thank you for visiting my profile!
+
+
+[Twitter](https://www.twitter.com/alexcod3s/)
+
