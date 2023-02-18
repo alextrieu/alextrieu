@@ -19,5 +19,7 @@ If you're interested in collaborating on a project or just want to say hello, fe
 Thank you for visiting my profile!
 
 
-[Twitter](https://www.twitter.com/alexcod3s/)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AlexCod3s.svg?style=social&label=Follow%20%40AlexCod3s)](https://twitter.com/alexcod3s)
+
+
 
